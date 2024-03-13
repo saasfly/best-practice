@@ -16,14 +16,14 @@
 
 | 目录 | 标题 | 描述 | 链接 |
 | --- | --- | --- | --- |
-| 最佳推荐 | Cloudflare | 全栈开发所需的一切 | https://www.cloudflare.com/ |
+| 强烈推荐 | Cloudflare | 全栈开发所需的一切 | https://www.cloudflare.com/ |
 |  | Vercel | 最佳Next.js托管提供商 | https://vercel.com |
 |  | Fly.io | 如果你使用Docker,就选它 | https://fly.io |
 |  | AWS | 除了成本,没有任何缺点 | https://aws.amazon.com |
 |  | ChatGPT | 最强大的AI | https://chat.openai.com/ |
 |  | Github | 全球领先的AI驱动开发者平台 | https://github.com/ |
 |  | Stripe | 在线支付的新标准 | https://stripe.com |
-|  | Your Site | 联系我们 | / |
+|  | Your Site（ad） | 联系我们 | / |
 | AI | OpenAI | OpenAI是一家AI研究和部署公司 | https://openai.com/ |
 |  | Midjourney | Midjourney是一个创建和分享AI生成内容的平台 | https://www.midjourney.com |
 |  | Perplexity AI | 引导式AI搜索,更深入探索 | https://www.perplexity.ai |
@@ -70,5 +70,11 @@
 |  | Sass | 具有超能力的CSS | https://sass-lang.com |
 |  | TailwindCSS | 一个实用优先的CSS框架,用于快速构建定制设计 | https://tailwindcss.com/ |
 |  | UnoCSS | 即时按需原子化CSS引擎 | https://unocss.dev/ |
+| 很棒的软件  | 命令行 | iTerm2 + zsh + oh-my-zsh  | |
+|   | IDE | Jetbrains ide  | https://www.jetbrains.com/ |
+|   | IDE | Visual Studio Code  | https://code.visualstudio.com/ |
+|   | 浏览器 | Arc  | https://arc.net/ |
+|   | IM | Discord  | https://discord.com/ |
+|   | Git图形客户端 | GitBulter | https://gitbutler.com/ |
 | 云原生 |  |  |  |
 | SaaS服务 |  |  |  |
