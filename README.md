@@ -80,6 +80,5 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 |   | Brower | Arc  | https://arc.net/ |
 |   | IM | Discord  | https://discord.com/ |
 |   | Git GUI | GitBulter | https://gitbutler.com/ |
-
 | Cloud Native |  |  |  |
 | SaaS Service |  |  |  |
