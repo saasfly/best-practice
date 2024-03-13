@@ -1,15 +1,31 @@
-# SaaS Best Practices
-Best Practices and Tools we used at our startup
-| Title | Title | Description | Link |
+# SaaS Best Practices - 2024
+During our entrepreneurial journey, we've identified best practices and practical tools. Every quarter, we revisit and update our list to reflect the latest insights and developments.
+
+[![issues](https://img.shields.io/github/issues/saasfly/best-practice?color=green)](https://github.com/saasfly/best-practice/issues)
+[![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/saasfly/best-practice/pulls)
+[![stars](https://img.shields.io/github/stars/saasfly/best-practice.svg?color=yellow)](https://github.com/saasfly/best-practice)
+[![forks](https://img.shields.io/github/forks/saasfly/best-practice.svg?color=orange)](https://github.com/saasfly/best-practice)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![chinese](https://img.shields.io/badge/-Chinese-blue.svg)](README_zh.md)
+
+## Attention
+
+Currently, we primarily accept pull requests related to translations and self-recommendations from open-source authors.
+However, before submitting a self-recommendation PR, we advise you to engage in friendly communication with us to ensure that expectations are aligned on both sides.
+
+## License
+[SaaS Best Practices](https://practices.best/) by [Nextify Limited](https://nextify.ltd) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+
+| Category | Title | Description | Link |
 | --- | --- | --- | --- |
-| Most Recommended | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
+| Most Recommend | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
 |  | Vercel | Best Next.js Hosting Providers | https://vercel.com |
 |  | Fly.io | If you use Docker, chose it | https://fly.io |
 |  | AWS | Apart from the cost, there are no disadvantages. | https://aws.amazon.com |
 |  | ChatGPT | The most powerful AI | https://chat.openai.com/ |
 |  | Github | The world's leading AI-powered developer platform. | https://github.com/ |
 |  | Stripe | The new standard in online payments | https://stripe.com |
-|  | Your Site | Contacty us & Free to open source  | / |
+|  | Your Site |   | / |
 | AI | OpenAI | OpenAI is an AI research and deployment company. | https://openai.com/ |
 |  | Midjourney | Midjourney is a platform for creating and sharing AI-generated content | https://www.midjourney.com |
 |  | Perplexity AI | Guided AI search for deeper exploration | https://www.perplexity.ai |
