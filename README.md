@@ -18,14 +18,14 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 
 | Category | Title | Description | Link |
 | --- | --- | --- | --- |
-| Most Recommend | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
+| Highly Recommended | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
 |  | Vercel | Best Next.js Hosting Providers | https://vercel.com |
 |  | Fly.io | If you use Docker, chose it | https://fly.io |
 |  | AWS | Apart from the cost, there are no disadvantages. | https://aws.amazon.com |
 |  | ChatGPT | The most powerful AI | https://chat.openai.com/ |
 |  | Github | The world's leading AI-powered developer platform. | https://github.com/ |
 |  | Stripe | The new standard in online payments | https://stripe.com |
-|  | Your Site |   | / |
+|  | Your Site(ad) | Contact us  | / |
 | AI | OpenAI | OpenAI is an AI research and deployment company. | https://openai.com/ |
 |  | Midjourney | Midjourney is a platform for creating and sharing AI-generated content | https://www.midjourney.com |
 |  | Perplexity AI | Guided AI search for deeper exploration | https://www.perplexity.ai |
@@ -57,6 +57,8 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 |  | Uptime | A self-hosted monitoring tool | https://uptime.kuma.pet/ |
 |  | Outline | Your team's knowledge base – wiki, documentation, playbooks, and more – all in one place. | https://github.com/outline/outline |
 |  | PocketBase | Open Source realtime backend in 1 file | https://pocketbase.io/ |
+|  | SQLite | The most used database engine in the world |  https://www.sqlite.org/ |
+|  | PostgreSQL| The World's Most Advanced Open Source Relational Database| https://www.postgresql.org/ |
 | Site generator | Starlight | Everything you need to build a stellar documentation website. Fast, accessible, and easy-to-use. | https://starlight.astro.build/ |
 |  | VitePress | Vite & Vue powered static site generator | https://vitepress.dev/vitepress-logo-mini.svg |
 |  | Nextra | A Next.js static site generator | https://nextra.site/ |
@@ -72,5 +74,12 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 |  | Sass | CSS with superpowers | https://sass-lang.com |
 |  | TailwindCSS | A utility-first CSS framework for rapidly building custom designs | https://tailwindcss.com/ |
 |  | UnoCSS | Instant On-demand Atomic CSS Engine | https://unocss.dev/ |
+| Awesome Software  | Terminal | iTerm2 + zsh + oh-my-zsh  | |
+|   | IDE | Jetbrains ide  | https://www.jetbrains.com/ |
+|   | IDE | Visual Studio Code  | https://code.visualstudio.com/ |
+|   | Brower | Arc  | https://arc.net/ |
+|   | IM | Discord  | https://discord.com/ |
+|   | Git GUI | GitBulter | https://gitbutler.com/ |
+
 | Cloud Native |  |  |  |
 | SaaS Service |  |  |  |
