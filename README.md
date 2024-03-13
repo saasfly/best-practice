@@ -1,5 +1,5 @@
 # SaaS Best Practices
-Best Practices and Tools we used at our startup
+what we used at our startup
 | Title | Title | Description | Link |
 | --- | --- | --- | --- |
 | Most Recommended | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
