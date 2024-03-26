@@ -1,4 +1,4 @@
-# SaaS Best Practices - 2024
+# SaaS Best Practices - 2024 
 During our entrepreneurial journey, we've identified best practices and practical tools. Every quarter, we revisit and update our list to reflect the latest insights and developments.
 
 [![issues](https://img.shields.io/github/issues/saasfly/best-practice?color=green)](https://github.com/saasfly/best-practice/issues)
