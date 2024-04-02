@@ -20,7 +20,7 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 | --- | --- | --- | --- |
 | Highly Recommended | Cloudflare | Anything you need in full stack develop | https://www.cloudflare.com/ |
 |  | Vercel | Best Next.js Hosting Providers | https://vercel.com |
-|  | Fly.io | If you use Docker, chose it | https://fly.io |
+|  | Fly.io | If you use Docker, choose it | https://fly.io |
 |  | AWS | Apart from the cost, there are no disadvantages. | https://aws.amazon.com |
 |  | ChatGPT | The most powerful AI | https://chat.openai.com/ |
 |  | Github | The world's leading AI-powered developer platform. | https://github.com/ |
